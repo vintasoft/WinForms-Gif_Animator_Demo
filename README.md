@@ -10,7 +10,7 @@ This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.h
 
 
 ## Screenshot
-<img src="vintasoft-gif-animator-demo.png" alt="VintaSoft GIF Animator Demo">
+<img src="vintasoft-gif-animator-demo.png" title="VintaSoft GIF Animator Demo">
 
 
 ## Usage
