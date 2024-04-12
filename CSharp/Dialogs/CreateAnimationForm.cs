@@ -91,7 +91,7 @@ namespace GifAnimatorDemo
         #region UI
 
         /// <summary>
-        /// Handles the Click event of AnimationStartButton object.
+        /// Handles the Click event of animationStartButton object.
         /// </summary>
         private void animationStartButton_Click(object sender, EventArgs e)
         {
@@ -114,7 +114,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationStopButton object.
+        /// Handles the Click event of animationStopButton object.
         /// </summary>
         private void animationStopButton_Click(object sender, EventArgs e)
         {
@@ -122,7 +122,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the ValueChanged event of DelayNumericUpDown object.
+        /// Handles the ValueChanged event of delayNumericUpDown object.
         /// </summary>
         private void delayNumericUpDown_ValueChanged(object sender, EventArgs e)
         {
@@ -138,7 +138,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ButtonOk object.
+        /// Handles the Click event of buttonOk object.
         /// </summary>
         private void buttonOk_Click(object sender, EventArgs e)
         {
@@ -147,7 +147,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ButtonCancel object.
+        /// Handles the Click event of buttonCancel object.
         /// </summary>
         private void buttonCancel_Click(object sender, EventArgs e)
         {

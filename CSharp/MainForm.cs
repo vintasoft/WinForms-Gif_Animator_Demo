@@ -276,7 +276,7 @@ namespace GifAnimatorDemo
         #region 'File' menu
 
         /// <summary>
-        /// Handles the Click event of NewToolStripMenuItem object.
+        /// Handles the Click event of newToolStripMenuItem object.
         /// </summary>
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -289,7 +289,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of OpenToolStripMenuItem object.
+        /// Handles the Click event of openToolStripMenuItem object.
         /// </summary>
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -306,7 +306,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AddPagesToolStripMenuItem object.
+        /// Handles the Click event of addPagesToolStripMenuItem object.
         /// </summary>
         private void addPagesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -330,7 +330,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SaveToolStripMenuItem object.
+        /// Handles the Click event of saveToolStripMenuItem object.
         /// </summary>
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -352,7 +352,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SaveAsToolStripMenuItem object.
+        /// Handles the Click event of saveAsToolStripMenuItem object.
         /// </summary>
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -377,7 +377,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SaveToToolStripMenuItem object.
+        /// Handles the Click event of saveToToolStripMenuItem object.
         /// </summary>
         private void saveToToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -402,7 +402,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of PackToolStripMenuItem object.
+        /// Handles the Click event of packToolStripMenuItem object.
         /// </summary>
         private void packToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -437,7 +437,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of GifFilePropertiesStripMenuItem object.
+        /// Handles the Click event of gifFilePropertiesStripMenuItem object.
         /// </summary>
         private void gifFilePropertiesStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -449,7 +449,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of CloseToolStripMenuItem object.
+        /// Handles the Click event of closeToolStripMenuItem object.
         /// </summary>
         private void closeToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -458,7 +458,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ExitToolStripMenuItem object.
+        /// Handles the Click event of exitToolStripMenuItem object.
         /// </summary>
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -474,7 +474,7 @@ namespace GifAnimatorDemo
         #region 'View' menu
 
         /// <summary>
-        /// Handles the CheckedChanged event of HiqualityRenderingToolStripMenuItem object.
+        /// Handles the CheckedChanged event of hiqualityRenderingToolStripMenuItem object.
         /// </summary>
         private void hiqualityRenderingToolStripMenuItem_CheckedChanged(object sender, EventArgs e)
         {
@@ -491,7 +491,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of WhiteToolStripMenuItem object.
+        /// Handles the Click event of whiteToolStripMenuItem object.
         /// </summary>
         private void whiteToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -500,7 +500,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ControlToolStripMenuItem object.
+        /// Handles the Click event of controlToolStripMenuItem object.
         /// </summary>
         private void controlToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -509,7 +509,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SelectToolStripMenuItem object.
+        /// Handles the Click event of selectToolStripMenuItem object.
         /// </summary>
         private void selectToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -519,7 +519,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ThumbnailViewerSettingsToolStripMenuItem object.
+        /// Handles the Click event of thumbnailViewerSettingsToolStripMenuItem object.
         /// </summary>
         private void thumbnailViewerSettingsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -536,7 +536,7 @@ namespace GifAnimatorDemo
         #region 'Pages' menu
 
         /// <summary>
-        /// Handles the Click event of OptimizePagesToolStripMenuItem object.
+        /// Handles the Click event of optimizePagesToolStripMenuItem object.
         /// </summary>
         private void optimizePagesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -573,7 +573,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of DeoptimizePagesToolStripMenuItem object.
+        /// Handles the Click event of deoptimizePagesToolStripMenuItem object.
         /// </summary>
         private void deoptimizePagesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -588,7 +588,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of InvertColorsToolStripMenuItem object.
+        /// Handles the Click event of invertColorsToolStripMenuItem object.
         /// </summary>
         private void invertColorsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -597,7 +597,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ConvertPaletteToGrayToolStripMenuItem object.
+        /// Handles the Click event of convertPaletteToGrayToolStripMenuItem object.
         /// </summary>
         private void convertPaletteToGrayToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -606,7 +606,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of GlobalPaletteToolStripMenuItem object.
+        /// Handles the Click event of globalPaletteToolStripMenuItem object.
         /// </summary>
         private void globalPaletteToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -630,7 +630,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of DifferenceAllPagesToolStripMenuItem object.
+        /// Handles the Click event of differenceAllPagesToolStripMenuItem object.
         /// </summary>
         private void differenceAllPagesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -639,7 +639,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of HueAllPagesToolStripMenuItem object.
+        /// Handles the Click event of hueAllPagesToolStripMenuItem object.
         /// </summary>
         private void hueAllPagesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -648,7 +648,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of RemoveAllToolStripMenuItem object.
+        /// Handles the Click event of removeAllToolStripMenuItem object.
         /// </summary>
         private void removeAllToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -660,7 +660,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ReverseToolStripMenuItem object.
+        /// Handles the Click event of reverseToolStripMenuItem object.
         /// </summary>
         private void reverseToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -684,7 +684,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of RemoveLocalPalettesToolStripMenuItem object.
+        /// Handles the Click event of removeLocalPalettesToolStripMenuItem object.
         /// </summary>
         private void removeLocalPalettesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -729,7 +729,7 @@ namespace GifAnimatorDemo
         #region 'Page' menu
 
         /// <summary>
-        /// Handles the Click event of MoveUpToolStripMenuItem object.
+        /// Handles the Click event of moveUpToolStripMenuItem object.
         /// </summary>
         private void moveUpToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -738,7 +738,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of MoveDownToolStripMenuItem object.
+        /// Handles the Click event of moveDownToolStripMenuItem object.
         /// </summary>
         private void moveDownToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -747,7 +747,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of InsertToolStripMenuItem object.
+        /// Handles the Click event of insertToolStripMenuItem object.
         /// </summary>
         private void insertToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -771,7 +771,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of RemovePageToolStripMenuItem object.
+        /// Handles the Click event of removePageToolStripMenuItem object.
         /// </summary>
         private void removePageToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -783,7 +783,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ReplacePageStripMenuItem object.
+        /// Handles the Click event of replacePageStripMenuItem object.
         /// </summary>
         private void replacePageStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -800,7 +800,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of DifferencePageToolStripMenuItem object.
+        /// Handles the Click event of differencePageToolStripMenuItem object.
         /// </summary>
         private void differencePageToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -809,7 +809,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of HuePageToolStripMenuItem object.
+        /// Handles the Click event of huePageToolStripMenuItem object.
         /// </summary>
         private void huePageToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -818,7 +818,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of FramePaletteToolStripMenuItem object.
+        /// Handles the Click event of framePaletteToolStripMenuItem object.
         /// </summary>
         private void framePaletteToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -841,7 +841,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SavePageAsToolStripMenuItem object.
+        /// Handles the Click event of savePageAsToolStripMenuItem object.
         /// </summary>
         private void savePageAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -850,7 +850,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SaveFrameAsToolStripMenuItem object.
+        /// Handles the Click event of saveFrameAsToolStripMenuItem object.
         /// </summary>
         private void saveFrameAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -859,7 +859,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of DeoptimizePageToolStripMenuItem object.
+        /// Handles the Click event of deoptimizePageToolStripMenuItem object.
         /// </summary>
         private void deoptimizePageToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -879,7 +879,7 @@ namespace GifAnimatorDemo
         #region 'Animation' menu
 
         /// <summary>
-        /// Handles the Click event of StartToolStripMenuItem object.
+        /// Handles the Click event of startToolStripMenuItem object.
         /// </summary>
         private void startToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -890,7 +890,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of StopToolStripMenuItem object.
+        /// Handles the Click event of stopToolStripMenuItem object.
         /// </summary>
         private void stopToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -899,7 +899,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of PreviewInBrowserToolStripMenuItem object.
+        /// Handles the Click event of previewInBrowserToolStripMenuItem object.
         /// </summary>
         private void previewInBrowserToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -944,7 +944,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of CreateAnimationToolStripMenuItem object.
+        /// Handles the Click event of createAnimationToolStripMenuItem object.
         /// </summary>
         private void createAnimationToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -995,7 +995,7 @@ namespace GifAnimatorDemo
         #region 'Help' menu
 
         /// <summary>
-        /// Handles the Click event of AboutToolStripMenuItem object.
+        /// Handles the Click event of aboutToolStripMenuItem object.
         /// </summary>
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -1012,7 +1012,7 @@ namespace GifAnimatorDemo
         #region Image Viewer
 
         /// <summary>
-        /// Handles the FocusedIndexChanged event of AnimatedImageViewer object.
+        /// Handles the FocusedIndexChanged event of animatedImageViewer object.
         /// </summary>
         private void animatedImageViewer_FocusedIndexChanged(object sender, FocusedIndexChangedEventArgs e)
         {
@@ -1020,7 +1020,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the ZoomChanged event of PageImageViewer object.
+        /// Handles the ZoomChanged event of pageImageViewer object.
         /// </summary>
         private void pageImageViewer_ZoomChanged(object sender, ZoomChangedEventArgs e)
         {
@@ -1036,7 +1036,7 @@ namespace GifAnimatorDemo
         #region Thumbnail Viewer
 
         /// <summary>
-        /// Handles the FocusedIndexChanged event of PagesThumbnailViewer object.
+        /// Handles the FocusedIndexChanged event of pagesThumbnailViewer object.
         /// </summary>
         private void pagesThumbnailViewer_FocusedIndexChanged(object sender, Vintasoft.Imaging.UI.FocusedIndexChangedEventArgs e)
         {
@@ -1056,7 +1056,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the ImageCollectionChanged event of PagesThumbnailViewer object.
+        /// Handles the ImageCollectionChanged event of pagesThumbnailViewer object.
         /// </summary>
         private void pagesThumbnailViewer_ImageCollectionChanged(object sender, ImageCollectionChangeEventArgs e)
         {
@@ -1151,7 +1151,7 @@ namespace GifAnimatorDemo
         #region Tools tab control
 
         /// <summary>
-        /// Handles the SelectedIndexChanged event of ToolsTabControl object.
+        /// Handles the SelectedIndexChanged event of toolsTabControl object.
         /// </summary>
         private void toolsTabControl_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -1183,7 +1183,7 @@ namespace GifAnimatorDemo
         #region Page and frame
 
         /// <summary>
-        /// Handles the TextChanged event of PageCommentsTextBox object.
+        /// Handles the TextChanged event of pageCommentsTextBox object.
         /// </summary>
         private void pageCommentsTextBox_TextChanged(object sender, EventArgs e)
         {
@@ -1196,7 +1196,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the ValueChanged event of FrameDelayNumericUpDown object.
+        /// Handles the ValueChanged event of frameDelayNumericUpDown object.
         /// </summary>
         private void frameDelayNumericUpDown_ValueChanged(object sender, EventArgs e)
         {
@@ -1208,7 +1208,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the CheckedChanged event of TransparencyCheckBox object.
+        /// Handles the CheckedChanged event of transparencyCheckBox object.
         /// </summary>
         private void transparencyCheckBox_CheckedChanged(object sender, EventArgs e)
         {
@@ -1222,7 +1222,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of ChangeTrasparentColorIndexButton object.
+        /// Handles the Click event of changeTrasparentColorIndexButton object.
         /// </summary>
         private void changeTrasparentColorIndexButton_Click(object sender, EventArgs e)
         {
@@ -1241,7 +1241,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of SetDelayForAllPagesButton object.
+        /// Handles the Click event of setDelayForAllPagesButton object.
         /// </summary>
         private void setDelayForAllPagesButton_Click(object sender, EventArgs e)
         {
@@ -1258,7 +1258,7 @@ namespace GifAnimatorDemo
         #region Animation
 
         /// <summary>
-        /// Handles the Click event of AnimationPlayButton object.
+        /// Handles the Click event of animationPlayButton object.
         /// </summary>
         private void animationPlayButton_Click(object sender, EventArgs e)
         {
@@ -1267,7 +1267,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationStopButton object.
+        /// Handles the Click event of animationStopButton object.
         /// </summary>
         private void animationStopButton_Click(object sender, EventArgs e)
         {
@@ -1276,7 +1276,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the AnimationFinished event of AnimatedImageViewer object.
+        /// Handles the AnimationFinished event of animatedImageViewer object.
         /// </summary>
         private void animatedImageViewer_AnimationFinished(object sender, EventArgs e)
         {
@@ -1285,7 +1285,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the CheckedChanged event of AnimationRepeatCheckBox object.
+        /// Handles the CheckedChanged event of animationRepeatCheckBox object.
         /// </summary>
         private void animationRepeatCheckBox_CheckedChanged(object sender, EventArgs e)
         {
@@ -1294,7 +1294,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the ValueChanged event of AnimationDefaultDelayNumericUpDown object.
+        /// Handles the ValueChanged event of animationDefaultDelayNumericUpDown object.
         /// </summary>
         private void animationDefaultDelayNumericUpDown_ValueChanged(object sender, EventArgs e)
         {
@@ -1303,7 +1303,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the CheckedChanged event of AnimationReverseCheckBox object.
+        /// Handles the CheckedChanged event of animationReverseCheckBox object.
         /// </summary>
         private void animationReverseCheckBox_CheckedChanged(object sender, EventArgs e)
         {
@@ -1312,7 +1312,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationNextPageButton object.
+        /// Handles the Click event of animationNextPageButton object.
         /// </summary>
         private void animationNextPageButton_Click(object sender, EventArgs e)
         {
@@ -1321,7 +1321,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationPrevPageButton object.
+        /// Handles the Click event of animationPrevPageButton object.
         /// </summary>
         private void animationPrevPageButton_Click(object sender, EventArgs e)
         {
@@ -1330,7 +1330,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationLastPageButton object.
+        /// Handles the Click event of animationLastPageButton object.
         /// </summary>
         private void animationLastPageButton_Click(object sender, EventArgs e)
         {
@@ -1339,7 +1339,7 @@ namespace GifAnimatorDemo
         }
 
         /// <summary>
-        /// Handles the Click event of AnimationFirstPageButton object.
+        /// Handles the Click event of animationFirstPageButton object.
         /// </summary>
         private void animationFirstPageButton_Click(object sender, EventArgs e)
         {
