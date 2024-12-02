@@ -16,6 +16,7 @@ using Vintasoft.Imaging.UI;
 using DemosCommonCode;
 using DemosCommonCode.Imaging;
 using DemosCommonCode.Imaging.Codecs;
+using System.ComponentModel;
 
 namespace GifAnimatorDemo
 {
@@ -170,6 +171,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a maximum value of progress bar.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         internal int ProgressMaxValue
         {
             get
@@ -185,6 +187,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a viewers background color.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         internal Color BackgroundColor
         {
             get
@@ -204,6 +207,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a value indicating whether GIF file is loading.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         internal bool IsGifFileLoading
         {
             get
@@ -221,6 +225,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a value indicating whether GIF file is saving.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         internal bool IsGifFileSaving
         {
             get
@@ -238,6 +243,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a value indicating whether GIF file optimization is in progress.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         internal bool IsGifFileOptimizing
         {
             get

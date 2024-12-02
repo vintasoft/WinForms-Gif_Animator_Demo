@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -57,6 +58,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets an animation base image.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public VintasoftImage BaseImage
         {
             get

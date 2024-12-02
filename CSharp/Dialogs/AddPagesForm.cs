@@ -1,5 +1,7 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Windows.Forms;
+
 using Vintasoft.Imaging.Codecs.ImageFiles.Gif;
 
 namespace GifAnimatorDemo
@@ -32,6 +34,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a maximum value of insert index.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public int InsertIndexMaxValue
         {
             get
@@ -48,6 +51,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets an insert index.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public int InsertIndex
         {
             get
@@ -63,6 +67,7 @@ namespace GifAnimatorDemo
         /// <summary>
         /// Gets or sets a value indicating whether the Insert Index is visible.
         /// </summary>
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public bool InsertIndexVisible
         {
             get
