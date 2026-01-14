@@ -1,4 +1,4 @@
-# VintaSoft WinForms GIF Animator Demo
+﻿# VintaSoft WinForms GIF Animator Demo
 
 This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.html">VintaSoft Imaging .NET SDK</a> and demonstrates how to create, display, pack, add page and save animated GIF file:
 * Create, display, pack, add page and save animated GIF file.
@@ -21,9 +21,9 @@ This C# project uses <a href="https://www.vintasoft.com/vsimaging-dotnet-index.h
    Vintasoft.Imaging.ImagingGlobalSettings.Register("REG_USER", "REG_EMAIL", "EXPIRATION_DATE", "REG_CODE");
    ```
 
-3. Build the project ("GifAnimatorDemo.Net8.csproj" file) in Visual Studio or using .NET CLI:
+3. Build the project ("GifAnimatorDemo.Net10.csproj" file) in Visual Studio or using .NET CLI:
    ```
-   dotnet build GifAnimatorDemo.Net8.csproj
+   dotnet build GifAnimatorDemo.Net10.csproj
    ```
 
 4. Run compiled application and try to create, display, pack, add page and save animated GIF file.
