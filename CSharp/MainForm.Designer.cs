@@ -1,4 +1,4 @@
-namespace GifAnimatorDemo
+﻿namespace GifAnimatorDemo
 {
     partial class MainForm
     {
@@ -35,7 +35,7 @@ namespace GifAnimatorDemo
             Vintasoft.Imaging.UI.ThumbnailAppearance thumbnailAppearance5 = new Vintasoft.Imaging.UI.ThumbnailAppearance();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.viewerToolStrip = new DemosCommonCode.Imaging.ImageViewerToolStrip();
+            this.viewerToolStrip = new CommonCode.Imaging.ImageViewerToolStrip();
             this.pageImageViewer = new Vintasoft.Imaging.UI.ImageViewer();
             this.pagesThumbnailViewer = new Vintasoft.Imaging.UI.ThumbnailViewer();
             this.mainMenu = new System.Windows.Forms.MenuStrip();
@@ -1487,7 +1487,7 @@ namespace GifAnimatorDemo
         private System.Windows.Forms.StatusStrip statusStrip;
         private System.Windows.Forms.ToolStripStatusLabel gifFileInformationLabel;
         private System.Windows.Forms.OpenFileDialog openGifFileDialog;
-        private DemosCommonCode.Imaging.ImageViewerToolStrip viewerToolStrip;
+        private CommonCode.Imaging.ImageViewerToolStrip viewerToolStrip;
         private Vintasoft.Imaging.UI.ThumbnailViewer pagesThumbnailViewer;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.TabControl toolsTabControl;

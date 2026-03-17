@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using Vintasoft.Imaging;
 using Vintasoft.Imaging.Codecs.ImageFiles.Gif;
 
-using DemosCommonCode.Imaging.Codecs;
+using CommonCode.Imaging.Codecs;
 
 namespace GifAnimatorDemo
 {

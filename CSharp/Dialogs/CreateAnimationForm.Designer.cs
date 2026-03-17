@@ -1,4 +1,4 @@
-namespace GifAnimatorDemo
+﻿namespace GifAnimatorDemo
 {
     partial class CreateAnimationForm
     {
@@ -48,8 +48,8 @@ namespace GifAnimatorDemo
             this.panel10 = new System.Windows.Forms.Panel();
             this.methodsTabControl = new System.Windows.Forms.TabControl();
             this.colorBlendingTabPage = new System.Windows.Forms.TabPage();
-            this.secondColorPanelControl = new DemosCommonCode.CustomControls.ColorPanelControl();
-            this.firstColorPanelControl = new DemosCommonCode.CustomControls.ColorPanelControl();
+            this.secondColorPanelControl = new CommonCode.CustomControls.ColorPanelControl();
+            this.firstColorPanelControl = new CommonCode.CustomControls.ColorPanelControl();
             this.colorBlendingComboBox = new System.Windows.Forms.ComboBox();
             this.pixelateTabPage = new System.Windows.Forms.TabPage();
             this.pixelateDeltaGroupBox = new System.Windows.Forms.GroupBox();
@@ -500,8 +500,8 @@ namespace GifAnimatorDemo
         private System.Windows.Forms.TrackBar pixelateDeltaTrackBar;
         private System.Windows.Forms.CheckBox reverseCheckBox;
         private System.Windows.Forms.ComboBox colorBlendingComboBox;
-        private DemosCommonCode.CustomControls.ColorPanelControl secondColorPanelControl;
-        private DemosCommonCode.CustomControls.ColorPanelControl firstColorPanelControl;
+        private CommonCode.CustomControls.ColorPanelControl secondColorPanelControl;
+        private CommonCode.CustomControls.ColorPanelControl firstColorPanelControl;
 
 
     }
